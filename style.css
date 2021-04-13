@@ -11,7 +11,7 @@ body {
     width: 100%;
     position: fixed;
     font-family: arial;
-    font-size: 18px;
+    font-size: 15px;
     border-bottom: 2px solid #f8f7f7;
     margin-left: 0;
     padding: 4px 0;
@@ -19,7 +19,7 @@ body {
 
 .nav {
     float: right;
-    padding: 15px;
+    padding: 10px;
 }
 
 ul li {
@@ -37,8 +37,8 @@ ul li a {
 .logo {
     float: left;
     color: white;
-    font-size: 25px;
-    padding: 25px;
+    font-size: 15px;
+    padding: 20px;
 }
 
 ul li:hover {
@@ -48,7 +48,7 @@ ul li:hover {
 .text {
     text-align: center;
     padding: 200px;
-    color: black;
+    color: white;
 }
 
 .floating-button {
